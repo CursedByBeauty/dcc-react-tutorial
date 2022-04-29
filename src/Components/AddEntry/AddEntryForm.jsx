@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import './AddEntryForm.css';
 
-
+// CreatePost
 
 const AddEntryForm = (props) => {
 

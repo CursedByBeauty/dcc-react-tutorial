@@ -1,4 +1,6 @@
 
+// DisplayPosts
+
 const DisplayEntries = (props) => {
     return ( 
         <table className="table">
